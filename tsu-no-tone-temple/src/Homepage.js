@@ -61,7 +61,7 @@ return (
                 />
                 <Carousel.Caption>
                     <p>Goku</p>
-                </Carousel.Caption>
+                </Carousel.Caption> 
             </Carousel.Item>
             <Carousel.Item>
                 <img
