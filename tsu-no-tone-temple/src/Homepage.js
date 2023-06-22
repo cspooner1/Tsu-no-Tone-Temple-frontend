@@ -50,6 +50,11 @@ return (
         </Container>
         <h2 id='greeting' style={{ fontFamily: 'fantasy', }}>Kon'nichiwa</h2>
         <Carousel id='items'>
+        <Carousel.Item>
+                <img
+                    src='./images/main-logo.png' className='gifs'
+                />
+            </Carousel.Item>
             <Carousel.Item>
                 <img
                     src='./images/gokuTraining.gif' className='gifs'
